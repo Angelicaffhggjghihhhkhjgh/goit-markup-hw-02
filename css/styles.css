@@ -1,0 +1,104 @@
+:root{
+    --header-color:#2196F3;
+    --link-color: #212121;
+    --body-text:font-family: 'Roboto';
+    --body-color:#212121;
+}
+/*logo-font-header*/
+.logo-font-header{
+    
+}
+.logo{
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 26px;
+        line-height: 1,19;
+        letter-spacing: 0,03em;
+       color: #2196F3;
+}
+.black-nega{
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 26px;
+        line-height: 1,19;
+        letter-spacing: 0, 03em;
+        color: #ffffff;
+}
+.black-nega-2{
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 26px;
+        line-height: 1,19;
+        letter-spacing: 0, 03em;
+        color: #212121;
+}
+.link{
+    text-decoration: none;
+}
+.logo-studio{
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 1,14;
+        letter-spacing: 0.02em;
+        color: #212121;
+}
+.logo-studio:hover,
+.logo-studio:focus{
+    color: #2196F3;
+}
+.logo-portfolio{
+        font-size: 14px;
+        line-height: 1,14;
+        font-weight: 500;
+        letter-spacing: 0.02em;
+        color: #2196F3;
+}
+.logo-kontact{
+    font-size: 14px;
+    line-height: 1,14;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+    color: #757575;
+}
+.sort-btn-text{
+    font-family: 'Roboto';
+    font-size: 16px;
+    line-height: 1,62;
+    letter-spacing: 0.03em;
+    font-weight: 500;
+    text-align: center;
+    color: #ffffff;
+}
+.sort-btn-text-2{
+    font-family: 'Roboto';
+    font-size: 16px;
+    line-height: 1, 62;
+    letter-spacing: 0.03em;
+    font-weight: 500;
+    text-align: center;
+    color: #212121;
+}
+.address{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1,71;
+    letter-spacing: 0.03em;
+    color: #ffffff;
+}
+.k-foto{
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 0,5;
+    letter-spacing: 0.06em;
+    color: #212121;
+}
+.k-foto-2{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1,87;
+    letter-spacing: 0.03em;
+    color: #757575;
+}
