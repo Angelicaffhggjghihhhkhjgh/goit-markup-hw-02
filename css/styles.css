@@ -26,7 +26,7 @@
         letter-spacing: 0, 03em;
         color: #ffffff;
 }
-.black-nega-2{
+.black-nega-two{
         font-family: 'Raleway';
         font-style: normal;
         font-weight: 700;
@@ -72,7 +72,7 @@
     text-align: center;
     color: #ffffff;
 }
-.sort-btn-text-2{
+.sort-btn-text-two{
     font-family: 'Roboto';
     font-size: 16px;
     line-height: 1, 62;
@@ -82,6 +82,8 @@
     color: #212121;
 }
 .address{
+    font-family:'Roboto' ;
+    font-style: normal;
     font-weight: 400;
     font-size: 14px;
     line-height: 1,71;
@@ -89,16 +91,92 @@
     color: #ffffff;
 }
 .k-foto{
+    font-family: 'Roboto';
+    font-style: normal;
     font-weight: 700;
     font-size: 18px;
     line-height: 0,5;
     letter-spacing: 0.06em;
     color: #212121;
 }
-.k-foto-2{
+.k-foto-two{
     font-weight: 400;
     font-size: 16px;
     line-height: 1,87;
     letter-spacing: 0.03em;
     color: #757575;
+}
+.naha-comanda{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 1,36;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 0.06em;
+    color: #ffffff;
+}
+.naha-comanda-one{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 1,14;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+.p-one{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1,71;
+    letter-spacing: 0.03em;
+    color: #757575;
+}
+.naha-comanda-two{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1,16;
+    letter-spacing: 0.03em;
+    color: #212121;
+    text-align: center;
+}
+.naha-comanda-three{
+    font-family:'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1,18;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #212121;
+}
+.naha-comanda-four{
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1, 18;
+        text-align: center;
+        letter-spacing: 0.03em;
+        color: #757575;
+}
+.visually-hidden {
+    position: absolute;
+    white-space: nowrap;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    border: 0;
+    padding: 0;
+    clip: rect(0 0 0 0);
+    clip-path: inset(50%);
+    margin: -1px;
+}
+.section{
+    background-color: #2f303a;
 }
