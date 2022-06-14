@@ -59,6 +59,9 @@
         letter-spacing: 0.02em;
         color: #212121;
 }
+.index-color{
+    color: #2196F3;
+}
 .logo-studio:hover,
 .logo-studio:focus,.sort-btn-text-two{
     color: #2196F3;
